@@ -1,0 +1,110 @@
+*
+{
+    margin: auto;
+}
+div
+{
+    background:#EAE8DC;
+}
+.onee
+{   
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    margin-left:40%;
+}
+.onee:hover{
+    -webkit-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+-moz-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+}
+h1
+{
+    color:#383838;
+    font-family:Bookman Old Style ;
+    font-size: 40px;
+    text-align: center;
+}
+.one
+{
+    margin: 2%;
+font-size: 30px;
+text-align: center;
+color:beige;
+background:#926F7D;
+padding: 2%;
+}
+.one:hover{
+    -webkit-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+-moz-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+}
+
+h2{
+    color:beige;
+    font-family:Bookman Old Style ;
+    font-size: 40px;
+    text-align: left;
+}
+.two
+{
+    margin: 2%;
+    color:beige;
+    font-size: 30px;
+    text-align: left;
+    background:#705264;
+    padding:0.5%;
+}
+.two:hover{
+    -webkit-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+-moz-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+}
+.three 
+{
+    margin: 2%;
+    background: #422E47;
+    padding :2%;
+    margin-bottom: 3%;
+}
+.three:hover{
+    -webkit-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+-moz-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+}
+a
+{
+    margin-left:20%;
+    font-size: 15px;
+    color: beige;
+}
+.q:hover
+{
+    background: tomato;
+}
+.q
+{
+    padding:0.75%;
+}
+img
+{
+    margin-top: 1%;
+    width: 3%;
+    height: 3%;
+}
+.five
+{
+    border-top: 5px solid grey;
+}
+.four:hover
+{
+    -webkit-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+-moz-box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+box-shadow: -23px 24px 50px -11px rgba(110,107,110,1);
+}
+.e
+{
+    margin-left: 2%;
+    color:#252526;
+
+}
